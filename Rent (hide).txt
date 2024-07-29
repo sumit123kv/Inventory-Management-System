@@ -1,0 +1,10 @@
+||..................................................................................||
+ |    |Name ofequiment                |Brand          |Available                |Amt |
+ |ID  |                               |name           |equipment(Quantity)      |    |
+ |....................................|...............|.........................|....|
+ |P013|Velvet Table Cloth             | Saathi        |20			|$8.0|
+ |P023|Microphone Set                 | Audio Technica|15			|$189|
+ |P034|Disco Light Set                |Sonoff         |24			|$322|
+ |P038 |7.1 Surround Sound Speaker Set|Dolby          |4			|$489|
+ |P039|Dinner Table 8x5               |PandaFurnitures|8			|$344|
+||..................................................................................||

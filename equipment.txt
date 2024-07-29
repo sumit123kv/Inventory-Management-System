@@ -1,0 +1,10 @@
++...................................................+
+|Name ofequipment              |Brand          |Amt |         
+|                              |name           |    |         
+|...................................................| 
+|Velvet Table Cloth            | Saathi        |$8  |
+|Microphone Set                |Audio Technica |$185|
+|Disco Light Set               |Sonoff         |$322|
+|7.1 Surround Sound Speaker Set|Dobly          |$489|
+|Dinner Table 8x5              |PandaFurnitures|$433| 
++...................................................+
